@@ -130,20 +130,21 @@ const StyledProductCardAddToCartRow = styled.div`
 const StyledProductCardAddToCartButton = styled.button`
     width: 100px;
     height: 30px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     border: none;
     text-transform: uppercase;
     font-size: 12px;
     font-family: 'Roboto', sans-serif;
+    border: 2px solid black;
     border-radius: 5px;
     font-weight: bold;
     &:hover {
         width: 105px;
         height: 35px;
-        color: black;
-        background-color: white;
-        border: 2px solid black;
+        color: white;
+        background-color: black;
+        
 
     }
 `
@@ -160,14 +161,14 @@ const StyledProductCardQtyPlus = styled.button`
     align-items: center;
     width: 30px;
     height: 30px;
-    background-color: black;
-    border: none;
+    background-color: white;
     border-radius: 5px;
-    color: white;
+    border: 2px solid black;
+    color: black;
     &:hover {
-        color: black;
-        background-color: white;
-        border: 2px solid black;
+        color: white;
+        background-color: black;
+       
 
     }
 
@@ -178,14 +179,14 @@ const StyledProductCardQtyMinus = styled.button`
     align-items: center;
     width: 30px;
     height: 30px;
-    background-color: black;
-    border: none;
+    background-color: white;
     border-radius: 5px;
-    color: white;
+    border: 2px solid black;
+    color: black;
     &:hover {
-        color: black;
-        background-color: white;
-        border: 2px solid black;
+        color: white;
+        background-color: black;
+    
 
     }
 

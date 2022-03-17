@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
+import { useSelector } from 'react-redux'
 import {GiBabyBottle} from 'react-icons/gi'
 
 
@@ -9,6 +10,7 @@ const StyledHeaderContainer = styled.div`
     align-items: center;
     width: 100%;
     height: 70px;
+   
 `
 const StyledHeaderLogo = styled.div`
     display: flex;
@@ -16,7 +18,8 @@ const StyledHeaderLogo = styled.div`
     align-items: center;
     width: auto;
     height: 50px;
-    font-family: 'Chewy', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     font-size: 35px;
     margin-left: 50px;
     text-transform: uppercase;
@@ -47,13 +50,15 @@ const StyledHeaderBasketCircle = styled.div`
 `
 
 const Header = () => {
+    
+    const count = useSelector((state) => state.productReducer.totalQuantity)
     return (
         <>
             <StyledHeaderContainer>
                 <StyledHeaderLogo>gym shakes</StyledHeaderLogo>
                 <StyledHeaderBasket>
                     <GiBabyBottle style={{width:'50px', height:'50px'}} />
-                    <StyledHeaderBasketCircle>0</StyledHeaderBasketCircle>
+                    <StyledHeaderBasketCircle>{count}</StyledHeaderBasketCircle>
                 </StyledHeaderBasket>
             </StyledHeaderContainer>
             
