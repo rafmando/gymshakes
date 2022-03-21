@@ -1,7 +1,7 @@
 # Gym Shakes
 
 ### `About` 
-A small application showing the use of redux (pushing a product to cart) and data filtering. This includes a search and relevance filter (including high price to low). This project is completed with tests.
+A small application showing the use of redux (pushing a product to cart) and data filtering. This includes a search and relevance filter (including high price to low). 
 
 <img src="public/images/shakes.png">
 
