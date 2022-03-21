@@ -1,0 +1,4313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`INCREASE AND DECREASE  renders successfully 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`INCREASE AND DECREASE QUANTITY Add To Cart 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`INCREASE AND DECREASE QUANTITY a 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Increase  Add To Cart 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Increase And Decrease Quantity Add To Cart 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Increase And Decrease Quantity should render products 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should add products to cart renders successfully 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`should increase and decrease the quantity renders successfully 1`] = `
+<div>
+  <div
+    class="sc-jSFjdj bFUeKj"
+    data-testid="products"
+  >
+    <div
+      class="sc-gKAaRy bYoFSx"
+    >
+      <div
+        class="sc-gtsrHT dwaSTO"
+      >
+        <input
+          class="sc-hKFxyN boumQG"
+          placeholder="Search"
+        />
+        <select
+          class="sc-eCApnc iyjgrh"
+        >
+          <option
+            value="normal"
+          >
+            Relevance
+          </option>
+          <option
+            value="high"
+          >
+            Price (High to Low)
+          </option>
+          <option
+            value="low"
+          >
+            Price (Low to High)
+          </option>
+        </select>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Optimum Nutrition Gold 
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein1.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          30.99
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          ProJym
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein2.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          25.31
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Signature Whey
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein3.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          19.52
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Nitro Tech
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein4.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          24.82
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Dymatize (Pebble flavour)
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein5.png"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          20.97
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-iCoGMd TZeVl"
+      >
+        <div
+          class="sc-fujyAs hrLDIU"
+        >
+          Remix Nutrition
+        </div>
+        <img
+          class="sc-pNWdM jJzYxn"
+          src="/images/protein6.jpeg"
+        />
+        <div
+          class="sc-jrsJWt HdIjp"
+        >
+          £
+          21.69
+        </div>
+        <div
+          class="sc-kEqXSa bersdC"
+        >
+          <button
+            class="sc-iqAclL chzLhu"
+            data-testid="addToCartButton"
+          >
+            Add to cart
+          </button>
+          <div
+            class="sc-crzoAE hUWaWP"
+          >
+            <button
+              class="sc-dIsUp kWshAl"
+              data-testid="increaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                t="1551322312294"
+                version="1.1"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <defs />
+                <path
+                  d="M474 152m8 0l60 0q8 0 8 8l0 704q0 8-8 8l-60 0q-8 0-8-8l0-704q0-8 8-8Z"
+                />
+                <path
+                  d="M168 474m8 0l672 0q8 0 8 8l0 60q0 8-8 8l-672 0q-8 0-8-8l0-60q0-8 8-8Z"
+                />
+              </svg>
+            </button>
+            <div
+              class="sc-ksluID fTuhkI"
+              data-testid="quantity"
+            >
+              0
+            </div>
+            <button
+              class="sc-bqGGPW gZvmAK"
+              data-testid="decreaseButton"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                style="width: 25px; height: 25px;"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M872 474H152c-4.4 0-8 3.6-8 8v60c0 4.4 3.6 8 8 8h720c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

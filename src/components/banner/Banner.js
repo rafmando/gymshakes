@@ -21,7 +21,7 @@ const Banner = () => {
 
     return (
         <StyledHeaderTop>
-            <p>Hello welcome to Gym Shakes</p>
+            <p>welcome to Gym Shakes</p>
         </StyledHeaderTop>
     )
 }

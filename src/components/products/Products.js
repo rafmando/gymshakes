@@ -104,7 +104,7 @@ const Products = ({data}) => {
     
     
     return (
-        <StyledProductsContainer>
+        <StyledProductsContainer data-testid="products">
             <StyledProductContainer>
             <StyledProductsSearchContainer>
                 <StyledProductsSearch placeholder="Search" onChange={handleSearch}/>
@@ -133,11 +133,11 @@ const Products = ({data}) => {
                         <StyledProductCardImg src={image}/>
                         <StyledProductCardPrice>£{price}</StyledProductCardPrice>
                         <StyledProductCardAddToCartRow>
-                            <StyledProductCardAddToCartButton onClick={() => {addToCart(prod)}}>Add to cart</StyledProductCardAddToCartButton>
+                            <StyledProductCardAddToCartButton data-testid="addToCartButton" onClick={() => {addToCart(prod)}}>Add to cart</StyledProductCardAddToCartButton>
                             <StyledProductCardQtyContainer>
-                                <StyledProductCardQtyPlus onClick={() => increaseQty(index)}><AiOutlinePlus style={{width: '25px', height: '25px'}}/></StyledProductCardQtyPlus>
-                                <StyledProductCardQty>{quantity}</StyledProductCardQty>
-                                <StyledProductCardQtyMinus onClick={() => decreaseQty(index)}><AiOutlineMinus style={{width: '25px', height: '25px'}}/></StyledProductCardQtyMinus>
+                                <StyledProductCardQtyPlus data-testid="increaseButton" onClick={() => increaseQty(index)}><AiOutlinePlus style={{width: '25px', height: '25px'}}/></StyledProductCardQtyPlus>
+                                <StyledProductCardQty data-testid="quantity">{quantity}</StyledProductCardQty>
+                                <StyledProductCardQtyMinus data-testid="decreaseButton" onClick={() => decreaseQty(index)}><AiOutlineMinus style={{width: '25px', height: '25px'}}/></StyledProductCardQtyMinus>
                             </StyledProductCardQtyContainer>
                         </StyledProductCardAddToCartRow>
                     </StyledProductCard>
